@@ -1,4 +1,6 @@
 .env
 myenv/
 __pycache__/    
+tests/
+*.pyc
 # uvicorn app.main:app --reload
