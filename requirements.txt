@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+beautifulsoup4
+matplotlib
+pandas
+numpy
+scikit-learn
+python-dotenv
+duckdb
+duckdb-engine
+sqlalchemy
+lxml
+html5lib
